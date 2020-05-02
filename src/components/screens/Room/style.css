@@ -1,0 +1,83 @@
+#Room {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
+
+#Room .table {
+  position: relative;
+  width: 35vw;
+  height: 18vw;
+  border-radius: 5vw;
+  background-color: #00CAAB;
+  border: 1vw solid #008866;
+  margin: 3vw;
+}
+
+#Room .table .player {
+  position: absolute;
+  width: 4vw;
+  height: 4vw;
+  border-radius: 4vw;
+  background-color: #000;
+}
+
+#Player1 {
+  top: 17vw;
+  left: 4vw;
+}
+
+#Player2 {
+  top: 11vw;
+  left: -3vw;
+}
+
+#Player3 {
+  top: 3vw;
+  left: -3vw;
+}
+
+#Player4 {
+  top: -3vw;
+  left: 4vw;
+}
+
+#Player5 {
+  top: -3vw;
+  left: 15.5vw;
+}
+
+#Player6 {
+  top: -3vw;
+  left: 27vw;
+}
+
+#Player7 {
+  top: 3vw;
+  left: 34vw;
+}
+
+#Player8 {
+  top: 11vw;
+  left: 34vw;
+}
+
+#Player9 {
+  top: 17vw;
+  left: 27vw;
+}
+
+#Room .table .player#Dealer {
+  top: 16vw;
+  left: 15vw;
+  background-color: #FFDD66;
+  border: .5vw solid #FEC50B;
+}
+
+
+
+
+
+
