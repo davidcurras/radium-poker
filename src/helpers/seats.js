@@ -36,6 +36,16 @@ export const getPosition = playerId => {
       return { top: '15vw', left: '26vw' }
     case 'P9C2':
       return { top: '15vw', left: '28vw' }
+    case 'F1':
+      return { top: '10vw', left: '10vw' }
+    case 'F2':
+      return { top: '10vw', left: '12.5vw' }
+    case 'F3':
+      return { top: '10vw', left: '15vw' }
+    case 'T':
+      return { top: '10vw', left: '19vw' }
+    case 'R':
+      return { top: '10vw', left: '23vw' }
     default:
       return {}
   }
