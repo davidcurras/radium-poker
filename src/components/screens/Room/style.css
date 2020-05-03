@@ -26,7 +26,7 @@
 
 #Player1 {
   top: 17vw;
-  left: 4vw;
+  left: 5vw;
 }
 
 #Player2 {
@@ -41,17 +41,17 @@
 
 #Player4 {
   top: -3vw;
-  left: 4vw;
+  left: 5vw;
 }
 
 #Player5 {
   top: -3vw;
-  left: 15.5vw;
+  left: 15vw;
 }
 
 #Player6 {
   top: -3vw;
-  left: 27vw;
+  left: 26vw;
 }
 
 #Player7 {
@@ -66,7 +66,7 @@
 
 #Player9 {
   top: 17vw;
-  left: 27vw;
+  left: 26vw;
 }
 
 #Room .table .player#Dealer {
@@ -75,9 +75,3 @@
   background-color: #FFDD66;
   border: .5vw solid #FEC50B;
 }
-
-
-
-
-
-

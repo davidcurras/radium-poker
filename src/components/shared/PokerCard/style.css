@@ -1,0 +1,7 @@
+.poker-card {
+  position: absolute;
+}
+
+.poker-card img {
+  width: 2vw;
+}
