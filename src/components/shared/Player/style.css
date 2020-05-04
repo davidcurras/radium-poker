@@ -1,0 +1,12 @@
+.player {
+  position: absolute;
+  width: 4vw;
+  height: 4vw;
+  border-radius: 4vw;
+  background-color: #000;
+}
+
+.player#Dealer {
+  background-color: #FFDD66;
+  border: .5vw solid #FEC50B;
+}
